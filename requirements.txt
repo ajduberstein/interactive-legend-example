@@ -1,0 +1,3 @@
+pandas
+ipywidgets
+pydeck==0.4.1
